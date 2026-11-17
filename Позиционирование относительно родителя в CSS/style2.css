@@ -1,0 +1,38 @@
+.block{
+    position: relative;
+	width: 400px;
+	height: 900px;
+	margin: 0 auto;
+	border: 1px solid rgb(0, 0, 0);
+    background-color: black;
+}
+.red{
+    position: absolute;
+    top: 50px;
+    left:100px;
+    border-radius: 50%;
+    border: 2 px solid rgb(128, 128, 128);
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.orange{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    border-radius: 50%;
+    border: 2 px solid rgb(128, 128, 128);
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 242, 0);
+}
+.green{
+    position: absolute;
+    top: 650px;
+    left:100px;
+    border-radius: 50%;
+    border: 2 px solid rgb(128, 128, 128);
+    width: 200px;
+    height: 200px;
+    background-color: rgb(72, 255, 0);
+}

@@ -1,0 +1,59 @@
+.smile{
+    position: relative;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 1 px solid black;
+    background-color: rgb(255, 249, 127);
+    width: 300px;
+    height: 300px;
+}
+.eye1{
+    position: absolute;
+    top: 85px;
+    left: 50px;
+    border-radius: 50%;
+    border: 1 px solid black;
+    background-color: rgb(255, 255, 255);
+    width: 60px;
+    height: 60px;
+}
+.eye2{
+    position: absolute;
+    top: 85px;
+    right: 50px;
+    border-radius: 50%;
+    border: 1 px solid black;
+    background-color: rgb(255, 255, 255);
+    width: 60px;
+    height: 60px;
+}
+.nos{
+    position: absolute;
+    top: 150px;
+    left: 125px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 1 px solid black;
+    background-color: rgb(255, 255, 255);
+}
+.rotan2{
+    position: absolute;
+    top: 200px;
+    left: 115px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    border: 1 px solid black;
+    background-color: rgb(255, 249, 127);
+}
+.rotan{
+    position: absolute;
+    top: 220px;
+    left: 115px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    border: 1 px solid black;
+    background-color: rgb(255, 255, 255);
+}
