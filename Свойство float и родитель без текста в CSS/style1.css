@@ -1,0 +1,16 @@
+.parent {
+	border: 1px solid red;
+	text-align: justify;
+}
+.child {
+    margin: 10px 10px 10px 10px;
+	float: right;
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+    text-align: center;
+}
+
+.clearfix {
+	clear: both;
+}
